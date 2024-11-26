@@ -2,7 +2,7 @@
 
 # My Information
 
-I'm a passionate, self-proclaimed developer who specializes in full stack development (React.js & Node.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel-perfect design, and writing clear, readable, highly performant code matters to me.
+I'm a passionate, self-proclaimed developer who specializes in full stack development (React.js & Node.js & Next.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel-perfect design, and writing clear, readable, highly performant code matters to me.
 
 I began my journey as a web developer in my second year college, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. Currently, as a third-year student, I’m focusing on developing my skills and working on projects that allow me to apply what I’ve learned.
 
