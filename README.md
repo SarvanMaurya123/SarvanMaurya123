@@ -33,6 +33,27 @@ sarvanmaurya037@gmail.com
 - **Web applications**: Innovative solutions and creative applications
 - **Tech startups**: Bringing fresh ideas to life
 
+# Task Management System
+
+A task management system for tracking the tasks of employees in a company. This system supports three roles: **Admin**, **Team Leader**, and **Users**. Users can register, log in, and track the status of their tasks (Pending, In Progress, and Completed).
+
+## Features
+
+- **Admin Role**: Manages users, assigns tasks, and oversees the entire task management system.
+- **Team Leader Role**: Assigns tasks to users, tracks their progress, and monitors their workload.
+- **User Role**: Company employees who can register, log in, and track their tasks' statuses.
+
+## Tech Stack
+
+- **Frontend**: Next.js
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+## Link 🔗
+-**User Route**: [https://sarvanmauryaprojects.vercel.app/login](https://sarvanmauryaprojects.vercel.app/login)
+-**Admin and TemaLeader Login**:[https://sarvanmauryaprojects.vercel.app/admin/login](https://sarvanmauryaprojects.vercel.app/admin/login)
+
+
 ## 📫 How to reach me
 - **Email**: [sarvanmaurya037@gmail.com](mailto:sarvanmaurya123@example.com)
 - **LinkedIn**: [https://www.linkedin.com/in/sarvan-maurya-588877263/](https://www.linkedin.com/in/sarvan-maurya-588877263/)
