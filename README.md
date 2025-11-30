@@ -14,6 +14,10 @@ I enjoy working end-to-end — **from ideation to design to development**. When 
 
 ---
 
+##My Freelance projects Those I am Working
+* Automation Type application (Gmail,drive,notion,slack)
+* College Website: https://pillaitask.vercel.app
+
 ## 📌 Quick Info About Me
 
 * 🎓 **BSc IT – Completed**
@@ -44,7 +48,6 @@ I enjoy working end-to-end — **from ideation to design to development**. When 
 * Open-source contributions
 * Innovative and scalable web applications
 * Startup and SaaS product ideas
-
 ---
 
 ## 📫 Connect With Me
