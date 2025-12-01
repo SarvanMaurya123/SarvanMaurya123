@@ -1,6 +1,4 @@
-Here’s an updated version with your **MCA (pursuing)** added cleanly and professionally:
 
----
 
 # 👋 Hi, I’m [Sarvan Maurya](https://github.com/SarvanMaurya123)
 
