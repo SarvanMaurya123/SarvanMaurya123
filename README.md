@@ -67,7 +67,6 @@ I enjoy working end-to-end — **from ideation to design to development**. When 
 I love solving logic puzzles and regularly challenge myself with coding problems on platforms like **LeetCode** and **HackerRank**.
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat\&logo=javascript\&logoColor=black)
